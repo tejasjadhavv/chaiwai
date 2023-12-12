@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678436131760",
+    "project_id": "chaiwai-2b006",
+    "storage_bucket": "chaiwai-2b006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678436131760:android:da88e9a7317f6dd0fc7c75",
+        "android_client_info": {
+          "package_name": "com.example.chai_wai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0Q8ez0RmgmlAW5wbo4d8iE6Lttr7sPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
